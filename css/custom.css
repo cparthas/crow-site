@@ -1,0 +1,41 @@
+@charset "UTF-8";
+/* CSS Document */
+
+@media (max-width: 480px) {
+	
+	.btn-xl {
+    margin-top: 40px;
+    padding: 10px 25px;
+    border-color: #fed136;
+    border-radius: 3px;
+    text-transform: uppercase;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    color: #fff;
+    background-color: #fed136;
+}
+
+   /* header .intro-text {
+        padding-top: 300px;
+        padding-bottom: 200px;
+    }*/
+
+    header .intro-text .intro-lead-in {
+        margin-bottom: 1px;
+        font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
+        font-size: 30px;
+        font-style: italic;
+        line-height: 20px;
+    }
+
+    header .intro-text .intro-heading {
+        margin-bottom: 50px;
+        text-transform: uppercase;
+        font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+        font-size: 65px;
+        font-weight: 700;
+        line-height: 75px;
+    }
+
+}
